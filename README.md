@@ -1,4 +1,4 @@
-# PSU Grok Curve Experiments
+# PSU Curve Experiments
 
 ## Paper
 
