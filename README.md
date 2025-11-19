@@ -1,4 +1,4 @@
-# OpenAI Grok Curve Experiments
+# PSU Grok Curve Experiments
 
 ## Paper
 
